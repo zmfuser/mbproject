@@ -22,7 +22,7 @@
     "jquery": "^3.4.1",
     "js-cookie": "2.2.0",
     "jspdf": "^1.5.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
     "v-viewer": "^1.4.0",
